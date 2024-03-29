@@ -1,4 +1,0 @@
-"AadClientId": "12232508-666b-476b-a197-a6be54551d76",
-"AadSecret": "Goa8Q~vQcLs5MILoStUO3HIFjqlXSvbMaw0~ob_i",
-"AadTenantDomain": "ad.comkensyo.com",
-"AadTenantId": "53e8429d-17a5-4a31-8850-6aad2609f9ec",
